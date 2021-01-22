@@ -5,8 +5,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://drag0n.tistory.com/)](https://drag0n.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggjae98@gmail.com)](mailto:ggjae98@gmail.com)
-https://img.shields.io/badge/-instagram-blueviolet
-[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=instagram&logoColor=lightgray&link=https://instagram.com/zobbu/)](https://instagram.com/zobbu)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/zobbu/)](https://instagram.com/zobbu)
 <!--
 **ggjae/ggjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
