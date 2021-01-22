@@ -1,6 +1,5 @@
-### Hi there 👋
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggjae)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning c++ & algorithm.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggjae)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://drag0n.tistory.com/)](https://drag0n.tistory.com)
