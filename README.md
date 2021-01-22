@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning c++ & algorithm.
+- 🌱 I’m currently learning c++ & algorithm </br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggjae)](https://github.com/anuraghazra/github-readme-stats)
 
 
