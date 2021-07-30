@@ -2,7 +2,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggjae)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://drag0n.tistory.com/)](https://drag0n.tistory.com)
+[![Blog Badge](http://img.shields.io/badge/-%20blog-black?style=flat-square&logo=github&link=https://drag0n.tistory.com/)](https://drag0n.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggjae98@gmail.com)](mailto:ggjae98@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/zobbu/)](https://instagram.com/zobbu)
 <!--
